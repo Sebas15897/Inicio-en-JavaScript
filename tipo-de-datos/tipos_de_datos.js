@@ -1,6 +1,6 @@
- /*
+/*
         * Tipos de datos en Js  
-        * Soy Sebastián </>
+        * Sebastián Contreras</>
         */
 
         //String
