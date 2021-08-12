@@ -1,0 +1,17 @@
+<script>
+        /*
+        * Operadores logicos
+        * Sebastián Contreras </>
+        * && and
+        */
+        let a = 1;
+        let valMin = 0;
+        let valMax = 10;
+
+        if ( a >= valMin && a <= valMax) {
+            console.log("Esta dentro de rango");
+        } else {
+            console.log("No esta dentro de rango");
+        }
+        
+    </script>
