@@ -1,6 +1,6 @@
 /*
         * Tipos de datos en Js  
-        * Sebastián Contreras</>
+        * Sebastián Contreras </>
         */
 
         //String
